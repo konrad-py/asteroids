@@ -1,0 +1,7 @@
+# środowisko
+.venv/
+__pycache__/
+*.pyc
+
+# pliki konfiguracyjne lokalne
+.python-version
